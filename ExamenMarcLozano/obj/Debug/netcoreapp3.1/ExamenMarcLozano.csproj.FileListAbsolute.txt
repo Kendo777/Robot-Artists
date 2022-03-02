@@ -1,0 +1,26 @@
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.exe
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.deps.json
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.runtimeconfig.json
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.dll
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.pdb
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.AssemblyInfo.cs
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.dll
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.pdb
+C:\Users\Marc\Desktop\USJ\4º\Examen\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.genruntimeconfig.cache
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.exe
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.deps.json
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.runtimeconfig.json
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.dll
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\bin\Debug\netcoreapp3.1\ExamenMarcLozano.pdb
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.AssemblyInfo.cs
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.dll
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.pdb
+C:\Users\Marc\Desktop\USJ\4º\Primer Semestre\RTP\ExamenMarcLozano\ExamenMarcLozano\obj\Debug\netcoreapp3.1\ExamenMarcLozano.genruntimeconfig.cache

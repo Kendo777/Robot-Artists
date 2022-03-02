@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owTqLVkyRhIRWVsUh907ARMnsYdi6recz/S/0HIlFbpbvAwRISHfZxJJFmhK5hjrQJ8R5Myvhewk6K9+Unt+Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marc\\Desktop\\USJ\\4º\\Primer Semestre\\Programacion en tiempo real\\ExamenMarcLozano\\ExamenMarcLozano\\ExamenMarcLozano.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
